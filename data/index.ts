@@ -75,13 +75,13 @@ export const projects = [
     title: "Product Store Web Application",
     des: "Add your personal products with the product store web application.",
     img: "/Capture8.png",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/mongodb-svgrepo-com.svg", "express-svgrepo-com.svg"],
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/mongodb-svgrepo-com.svg", "/express-svgrepo-com.svg"],
     link: "https://striped-rozalin-aliorganization-1012dd5c.koyeb.app/",
   },
   {
     id: 2,
     title: "My First Portfolio",
-    des: "Expolre my first protfolio that includes my projects, accounts, and much more.",
+    des: "Explore my first portfolio that includes my projects, accounts, and much more.",
     img: "/Capture7.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg"],
     link: "https://protoflio-app.vercel.app/",
@@ -89,7 +89,7 @@ export const projects = [
   {
     id: 3,
     title: "Basic Web Application",
-    des: "Expolre this basic web application that i build with no complex technologies.",
+    des: "Explore this basic web application that I built with no complex technologies.",
     img: "/Capture4.png",
     iconLists: ["/html-5-svgrepo-com.svg", "/css-3-svgrepo-com.svg", "/javascript-svgrepo-com.svg"],
     link: " https://alim-99.github.io/template-3/",
@@ -97,7 +97,7 @@ export const projects = [
   {
     id: 4,
     title: "Dashboard Web App",
-    des: "Expolre my dashboard web app that includes many pages with free control over the website.",
+    des: "Explore my dashboard web app that includes many pages with free control over the website.",
     img: "/Capture2.png",
     iconLists: ["/html-5-svgrepo-com.svg", "/css-3-svgrepo-com.svg", "/javascript-svgrepo-com.svg"],
     link: " https://alim-99.github.io/elzero-dashboard/",
