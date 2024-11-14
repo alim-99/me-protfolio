@@ -82,7 +82,7 @@ export const projects = [
     id: 2,
     title: "Horizon Banking Web App",
     des: "Explore horizon banking web app, use it to manage your bank accounts your transactions and more.",
-    img: "/horizon.png",
+    img: "/horizon.PNG",
     iconLists: ["/next.svg", "/re.svg" ,"/tail.svg", "/ts.svg"],
     link: "https://horizion-banking-app.vercel.app/",
   },
