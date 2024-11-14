@@ -80,11 +80,11 @@ export const projects = [
   },
   {
     id: 2,
-    title: "My First Portfolio",
-    des: "Explore my first portfolio that includes my projects, accounts, and much more.",
-    img: "/Capture7.png",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg"],
-    link: "https://protoflio-app.vercel.app/",
+    title: "Horizon Banking Web App",
+    des: "Explore horizon banking web app, use it to manage your bank accounts your transactions and more.",
+    img: "/horizon.png",
+    iconLists: ["/next.svg", "/re.svg" ,"/tail.svg", "/ts.svg"],
+    link: "https://horizion-banking-app.vercel.app/",
   },
   {
     id: 3,
@@ -103,6 +103,7 @@ export const projects = [
     link: " https://alim-99.github.io/elzero-dashboard/",
   },
 ];
+
 
 export const testimonials = [
   {
