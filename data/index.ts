@@ -96,11 +96,11 @@ export const projects = [
   },
   {
     id: 4,
-    title: "Dashboard Web App",
-    des: "Explore my dashboard web app that includes many pages with free control over the website.",
-    img: "/Capture2.png",
-    iconLists: ["/html-5-svgrepo-com.svg", "/css-3-svgrepo-com.svg", "/javascript-svgrepo-com.svg"],
-    link: " https://alim-99.github.io/elzero-dashboard/",
+    title: "Cure Pulse",
+    des: "Manage your health with cure pulse, add apointments with docotrs and much more.",
+    img: "/cure.png",
+    iconLists: ["/next.svg", "/re.svg", "/tail.svg", "/ts.svg"],
+    link: " https://cure-pulse-drab.vercel.app/",
   },
 ];
 
