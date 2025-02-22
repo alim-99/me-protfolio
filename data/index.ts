@@ -210,7 +210,7 @@ export const socialMedia = [
   },
   {
     id: "2",
-    img: "/twit.svg",
+    img: "/twitt.svg",
     href: "https://x.com/alim16097side"
   },
   {
@@ -218,4 +218,9 @@ export const socialMedia = [
     img: "/link.svg",
     href: "https://www.linkedin.com/in/ali-mohamed-96a768252/"
   },
+  {
+    id: "4",
+    img: "/insta.svg",
+    href: "https://www.instagram.com/a.l.i__66/",
+  }
 ];
