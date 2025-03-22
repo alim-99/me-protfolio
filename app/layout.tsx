@@ -15,8 +15,24 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Ali's Portofolio",
-  description: "Modern & Minimalist Portofolio",
+  title: "Ali's Portfolio | Full Stack Developer",
+  description: "Welcome to Ali's portfolio - Showcasing modern full-stack development projects, web applications, and software engineering expertise with a focus on minimalist design.",
+  keywords: ["Full Stack Developer", "Web Development", "Software Engineer", "Portfolio", "React", "Next.js", "TypeScript"],
+  authors: [{ name: "Ali" }],
+  openGraph: {
+    title: "Ali's Portfolio | Full Stack Developer",
+    description: "Modern full-stack development portfolio showcasing innovative web projects and software solutions",
+    type: "website",
+    siteName: "Ali's Portfolio",
+  },
+  robots: {
+    index: true,
+    follow: true,
+  },
+  viewport: {
+    width: "device-width",
+    initialScale: 1,
+  },
 };
 
 export default function RootLayout({
