@@ -17,6 +17,7 @@ const geistMono = localFont({
 export const metadata: Metadata = {
   title: "Ali's Portfolio | Full Stack Developer",
   description: "Welcome to Ali's portfolio - Showcasing modern full-stack development projects, web applications, and software engineering expertise with a focus on minimalist design.",
+  icons: "./brand.jpg",
   keywords: ["Full Stack Developer", "Web Development", "Software Engineer", "Portfolio", "React", "Next.js", "TypeScript"],
   authors: [{ name: "Ali" }],
   openGraph: {
