@@ -72,11 +72,11 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "Product Store Web Application",
-    des: "Add your personal products with the product store web application.",
-    img: "/Capture8.png",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/mongodb-svgrepo-com.svg", "/express-svgrepo-com.svg"],
-    link: "https://striped-rozalin-aliorganization-1012dd5c.koyeb.app/",
+    title: "Movies Recommendation App",
+    des: "Explore your favourite movies and tv shows that fit your taste.",
+    img: "/download.png",
+    iconLists: ["/next.svg" ,"/re.svg", "/tail.svg", "/ts.svg"],
+    link: "https://movies-recommndation-boi9.vercel.app/",
   },
   {
     id: 2,
